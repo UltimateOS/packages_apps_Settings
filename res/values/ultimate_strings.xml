@@ -24,6 +24,10 @@
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
     <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
 
+    <!-- Android debugging as root -->
+    <string name="adb_enable_root">Rooted debugging</string>
+    <string name="adb_enable_summary_root">Allow running Android debugging as root</string>
+    
     <!-- Battery Info: Technology -->
     <string name="battery_technology">Technology</string>
     <string name="battery_technology_not_available">@string/battery_cycle_count_not_available</string>
