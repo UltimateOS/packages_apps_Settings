@@ -107,6 +107,7 @@ android_library {
         "statslog-settings",
         "telephony_flags_core_java_lib",
         "setupdesign-lottie-loading-layout",
+        "VendorSupport-preference",
         "device_policy_aconfig_flags_lib",
         "kotlinx-coroutines-core",
         "kotlinx-coroutines-android",
