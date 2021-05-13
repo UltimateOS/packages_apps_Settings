@@ -28,6 +28,10 @@
     <string name="adb_enable_root">Rooted debugging</string>
     <string name="adb_enable_summary_root">Allow running Android debugging as root</string>
     
+    <!-- One shot automatic brightness -->
+    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
+    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+    
     <!-- Battery Info: Technology -->
     <string name="battery_technology">Technology</string>
     <string name="battery_technology_not_available">@string/battery_cycle_count_not_available</string>
