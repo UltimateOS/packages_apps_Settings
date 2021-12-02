@@ -87,6 +87,16 @@
             android:title="@string/accessibility_text_reading_options_title"
             settings:controller="com.android.settings.accessibility.TextReadingFragmentForDisplaySettingsController"/>
 
+        <ListPreference
+            android:key="android.theme.customization.font"
+            android:title="@string/theme_customization_font_title"/>
+        <ListPreference
+            android:key="android.theme.customization.adaptive_icon_shape"
+            android:title="@string/theme_customization_icon_shape_title"/>
+        <ListPreference
+            android:key="android.theme.customization.icon_pack"
+            android:title="@string/theme_customization_icon_pack_title"/>
+
         <Preference
             android:key="icon_manager"
             android:title="@string/icon_manager_title"
@@ -213,21 +223,5 @@
             android:title="@string/ignore_window_secure_title"
             android:summary="@string/ignore_window_secure_summary"
             android:defaultValue="false"/>
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:key="theme_customization_category"
-        android:title="@string/theme_customization_category"
-        android:order="1200"> <!-- Incremented by 100 from last order (i.e. 1100) -->
-
-        <ListPreference
-            android:key="android.theme.customization.font"
-            android:title="@string/theme_customization_font_title"/>
-        <ListPreference
-            android:key="android.theme.customization.adaptive_icon_shape"
-            android:title="@string/theme_customization_icon_shape_title"/>
-       <ListPreference
-            android:key="android.theme.customization.icon_pack"
-            android:title="@string/theme_customization_icon_pack_title"/>
     </PreferenceCategory>
 </PreferenceScreen>
