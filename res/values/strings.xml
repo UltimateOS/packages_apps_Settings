@@ -13017,4 +13017,9 @@
 
     <!--Text for Stylus Pointer Icon preference -->
     <string name="show_stylus_pointer_icon">Show pointer while hovering</string>
+
+    <!-- Maintainer -->
+    <string name="ultimate_maintainer">Device Maintainer</string>
+    <string name="ultimate_maintainer_title">@string/ultimate_maintainer</string>
+    <string name="ultimate_maintainer_summary">Unknown</string>
 </resources>
