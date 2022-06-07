@@ -71,6 +71,13 @@
     <string name="berry_black_theme_title">Pure black</string>
     <string name="berry_black_theme_summary">Pure black background for dark theme</string>
 
+    <!-- Navigation bar IME space -->
+    <string name="navigation_bar_ime_space_title">IME space</string>
+    <string name="navigation_bar_ime_space_summary">Space under keyboard options</string>
+    <string name="ime_narrow">Narrow</string>
+    <string name="ime_default">Default</string>
+    <string name="ime_hidden">Hidden</string>
+
     <!-- Network traffic -->
     <string name="network_traffic_state_title">Network traffic indicator</string>
     <string name="network_traffic_state_summary">Enable or disable network speed indicator in status bar</string>
