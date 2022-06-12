@@ -39,6 +39,13 @@
     <string name="show_navbar_gesture_bar_title">Gesture indicator</string>
     <string name="show_navbar_gesture_bar_summary">Show gesture indicator at the bottom of the screen</string>
 
+    <!-- Additional settings category -->
+    <string name="additional_settings_category_title">Additional Settings</string>
+
+    <!-- QS footer data usage -->
+    <string name="qs_show_data_usage_title">Show data usage</string>
+    <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+    
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">Tap to sleep</string>
     <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar or lockscreen to turn off the display</string>
