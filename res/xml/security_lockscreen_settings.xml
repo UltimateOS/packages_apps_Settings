@@ -45,6 +45,12 @@
             android:title="@string/owner_info_settings_title"
             android:summary="@string/owner_info_settings_summary" />
 
+        <com.ultimate.experience.preferences.SystemSettingSwitchPreference
+               android:key="secure_lockscreen_qs_disabled"
+               android:title="@string/disable_qs_title"
+               android:summary="@string/disable_qs_summary"
+               android:defaultValue="false" />
+
         <SwitchPreferenceCompat
             android:key="lockscreen_privacy_wallet_switch"
             android:title="@string/lockscreen_privacy_wallet_setting_toggle"
