@@ -128,6 +128,10 @@
     <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
     <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
 
+    <!-- No storage restrict -->
+    <string name="no_storage_restrict_title">No storage restrict</string>
+    <string name="no_storage_restrict_summary">Remove the restriction when selecting folders through Storage Access Framework. Can be convenient in some cases but may lead to privacy leaks.</string>
+    
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Quick torch</string>
     <string name="power_button_torch_summary">When the screen is off, long-pressing power button will enable torch</string>
