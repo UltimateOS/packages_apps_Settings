@@ -212,12 +212,6 @@
             android:summary="@string/qs_show_data_usage_summary"
             android:defaultValue="true" />
 
-        <com.ultimate.experience.preferences.SystemSettingSwitchPreference
-            android:key="show_fourg_icon"
-            android:title="@string/show_fourg_icon_title"
-            android:summary="@string/show_fourg_icon_summary"
-            android:defaultValue="true"/>
-
         <com.ultimate.experience.preferences.GlobalSettingSwitchPreference
             android:key="window_ignore_secure"
             android:title="@string/ignore_window_secure_title"
