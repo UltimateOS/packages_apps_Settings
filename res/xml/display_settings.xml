@@ -211,6 +211,12 @@
         android:title="@string/additional_settings_category_title">
 
         <com.ultimate.experience.preferences.SystemSettingSwitchPreference
+            android:key="show_fourg_icon"
+            android:title="@string/show_fourg_icon_title"
+            android:summary="@string/show_fourg_icon_summary"
+            android:defaultValue="false" />
+
+        <com.ultimate.experience.preferences.SystemSettingSwitchPreference
             android:key="qs_show_data_usage"
             android:title="@string/qs_show_data_usage_title"
             android:summary="@string/qs_show_data_usage_summary"
